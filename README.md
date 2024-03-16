@@ -2,7 +2,8 @@
 
 Welcome to the Laravel Competitions Management System! Our platform offers a comprehensive set of features to streamline competition management, making it easier than ever to organize and participate in various events.
 
-<br>
+
+
 ## Features:
 
 ### For Participants:
@@ -31,7 +32,8 @@ Welcome to the Laravel Competitions Management System! Our platform offers a com
 
 - **Superadmin Controls**: Superadmins have additional privileges, allowing them to manage admin accounts and permissions, ensuring smooth operations at all levels.
 
-<br>
+
+
 ## Technologies Used:
 
 - **Laravel**: Leveraging the power of Laravel for robust and scalable web application development.
@@ -40,7 +42,8 @@ Welcome to the Laravel Competitions Management System! Our platform offers a com
 
 - **Frontend Technologies**: The frontend is crafted using HTML, CSS, JavaScript, and Bootstrap, ensuring a visually appealing and responsive user interface.
 
-<br>
+
+
 ## Get Started:
 
 Follow these simple steps to get started with the Laravel Competitions Management System:
@@ -76,7 +79,8 @@ Follow these simple steps to get started with the Laravel Competitions Managemen
 7. **Explore & Enjoy**:
     Visit `http://localhost:8000` in your browser and start exploring the myriad features of our platform!
 
-<br>
+
+
 ## Contributing:
 
 We welcome contributions from the community to further enhance and improve the Laravel Competitions Management System. Whether it's bug fixes, feature enhancements, or feedback, your input is invaluable.
@@ -86,7 +90,8 @@ We welcome contributions from the community to further enhance and improve the L
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
    
-<br>
+
+
 ## Contact 
 - Email: <mohameashraf24@gmail.com>
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mohamed-ashraf-abd-elmoneam-409538246?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgLq%2BPh0QQX62Mwzt3ozQGQ%3D%3D)
