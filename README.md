@@ -44,7 +44,7 @@ Follow these simple steps to get started with the Laravel Competitions Managemen
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your_username/competition-management-system.git
+    git clone https://github.com/tokhy1/Laravel_Competitions_Management_System.git
     ```
 
 2. **Install Dependencies**:
@@ -73,14 +73,20 @@ Follow these simple steps to get started with the Laravel Competitions Managemen
 7. **Explore & Enjoy**:
     Visit `http://localhost:8000` in your browser and start exploring the myriad features of our platform!
 
-## Contribute:
+
+## Contributing:
 
 We welcome contributions from the community to further enhance and improve the Laravel Competitions Management System. Whether it's bug fixes, feature enhancements, or feedback, your input is invaluable.
+1. Fork it (<https://github.com/tokhy1/Laravel_Competitions_Management_System.git/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
 
-## License:
+## Contact 
+- Email: <mohameashraf24@gmail.com>
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mohamed-ashraf-abd-elmoneam-409538246?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgLq%2BPh0QQX62Mwzt3ozQGQ%3D%3D)
 
-This project is licensed under the MIT License, providing an open invitation for collaboration and innovation.
 
-## Disclaimer:
+Happy Coding!
 
-Please ensure thorough testing before deploying in a production environment. This project is intended for educational and demonstrative purposes, showcasing the capabilities of Laravel in competition management.
