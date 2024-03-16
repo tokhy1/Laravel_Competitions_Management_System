@@ -1,0 +1,338 @@
+/* landing page */
+.home_body {
+    width: 100%;
+    background-color: #EBFDFF;
+    height: 90vh;
+}
+
+.home-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.home-content .texts {
+    margin-top: 20px;
+}
+
+.home-content .texts h1 {
+    margin-top: 40px;
+}
+
+.home-content .texts p {
+    margin-bottom: 25px;
+    margin-top: 15px;
+}
+
+.home-content img {
+    width: 600px;
+}
+
+/* contact us */
+.contact-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.subContainer {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.contact-content .form-container {
+    padding: 40px;
+    background-color: white;
+}
+
+.contact-content .form-container h2 {
+    color: #379AE6;
+    margin-bottom: 30px;
+    font-size: 52px;
+}
+
+.contact-content .form-container button {
+    background-color: #379AE6;
+    color: white;
+    margin-top: 10px;
+    width: 200px;
+    text-align: center;
+}
+
+.contact-content .image {
+    width: 50%;
+}
+
+.contact-content .image img {
+    width: 100%;
+}
+
+/* competition details */
+.sub-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.details-content {
+    display: flex;
+    padding: 10px;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    height: 72vh;
+}
+
+.details-content .image {
+    width: 100%;
+}
+
+.details-content .image img {
+    width: 450px;
+    margin-left: -105px;
+}
+
+.details-content .texts h1 {
+    color: #379AE6;
+    text-transform: capitalize;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.details-content .texts p {
+    color: #323842;
+    font-size: 20px;
+}
+
+/* competition registration */
+.register-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    height: 68vh;
+}
+
+.subContainer {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.register-content .form-container {
+    padding: 40px;
+    background-color: white;
+}
+
+.register-content .form-container h2 {
+    color: #379AE6;
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+
+.register-content .form-container button {
+    background-color: #379AE6;
+    color: white;
+    margin-top: 10px;
+    width: 100px;
+    text-align: center;
+}
+
+.register-content .image {
+    width: 50%;
+}
+
+.register-content .image img {
+    width: 100%;
+}
+
+/* admin dashboard */
+.main-container {
+    display: flex;
+    height: auto;
+    width: 100%;
+}
+
+.main-container .sidebar {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    box-shadow: inset -4px 0 8px rgba(0, 0, 0, 0.1);
+    padding: 5px;
+    padding-right: 20px;
+}
+
+.sidebar .upper-part .logo {
+    margin-bottom: 40px;
+    margin-top: 10px;
+}
+
+/* main data part */
+.sidebar .upper-part .main-data {
+    margin-bottom: 25px;
+}
+
+.sidebar .upper-part .main-data h6 {
+    color: #6E7787;
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.sidebar .upper-part .main-data div {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.sidebar .upper-part .main-data div:hover {
+    cursor: pointer;
+    background-color: #F1F8FD;
+    border: 5px;
+}
+
+.sidebar .upper-part .main-data div i {
+    color: #565E6C;
+    font-size: 24px;
+    margin-top: -18px;
+    margin-right: 10px;
+}
+
+.sidebar .upper-part .main-data div p {
+    color: #565E6C;
+    font-weight: 400;
+}
+
+/* teams data part */
+.sidebar .upper-part .teams-data {
+    margin-bottom: 25px;
+}
+
+.sidebar .upper-part .teams-data h6 {
+    color: #6E7787;
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.sidebar .upper-part .teams-data div {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.sidebar .upper-part .teams-data div:hover {
+    cursor: pointer;
+    background-color: #F1F8FD;
+    border: 5px;
+}
+
+.sidebar .upper-part .teams-data div i {
+    color: #565E6C;
+    font-size: 24px;
+    margin-top: -18px;
+    margin-right: 10px;
+}
+
+.sidebar .upper-part .teams-data div p {
+    color: #565E6C;
+    font-weight: 400;
+}
+
+/* individuals data part */
+.sidebar .upper-part .individuals-data {
+    margin-bottom: 20px;
+}
+
+.sidebar .upper-part .individuals-data h6 {
+    color: #6E7787;
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.sidebar .upper-part .individuals-data div {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+
+.sidebar .upper-part .individuals-data div:hover {
+    cursor: pointer;
+    background-color: #F1F8FD;
+    border: 5px;
+}
+
+.sidebar .upper-part .individuals-data div i {
+    color: #565E6C;
+    font-size: 24px;
+    margin-top: -18px;
+    margin-right: 10px;
+}
+
+.sidebar .upper-part .individuals-data div p {
+    color: #565E6C;
+    font-weight: 400;
+}
+
+/* lower-part */
+.sidebar .lower-part {
+    margin-right: 10px;
+}
+
+.sidebar .lower-part h6 {
+    font-size: 16px;
+    color: #171A1F;
+}
+
+.sidebar .lower-part p {
+    color: #9095A0;
+    font-size: 14px;
+}
+
+/* sidebar content */
+.main-container .sidebar-content {
+    margin: 20px;
+    width: 80%;
+}
+
+.main-container .sidebar-content .hello-part {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main-container .sidebar-content .hello-part h1 {
+    color: #379AE6;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+/* active style */
+.active {
+    background-color: #F1F8FD;
+}
+
